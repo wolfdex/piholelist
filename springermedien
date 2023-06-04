@@ -50,9 +50,11 @@ emarketer.com
 insiderintelligence.com
 *.insiderintelligence.com
 
-
-
-immowelt.de 
+immowelt.org
+www.immowelt.org
+*.immowelt.org
+immowelt.de
+www.immowelt.de
 *.immowelt.de
 *.immowelt.*
 immonet.de
