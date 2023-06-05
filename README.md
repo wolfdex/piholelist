@@ -2,8 +2,9 @@
 
 White & Blacklist for PiHole and Adblocker like ublock
 
-blacklist - sites to block
-whitelist - sites never block
+blacklist - sites to block, which are not blocked in other lists
+
+whitelist - sites never block, false block in other lists
 
 springermedien - Sites and Services provided by Axel Springer SE (known from german Bild , Welt)
 
