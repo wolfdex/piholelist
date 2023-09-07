@@ -8,6 +8,9 @@ whitelist - sites never block, false block in other lists
 
 springermedien - Sites and Services provided by Axel Springer SE (known from german Bild , Welt)
 
+Some Browser like Vivaldi use there own integrated DNS. So have you have to deactivate it and also block outgoing DNS calls from Apps in your Network. 
+
+
 #  tests and other lists
 
 https://adblock-tester.com/
