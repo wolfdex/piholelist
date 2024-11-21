@@ -1,14 +1,17 @@
 ## potential malware
 
 d3hdbjtb1686tn.cloudfront.net
+||myshort.ru^
 myshort.ru
 www.myshort.ru
 
+||planmeetcal.ru^
 planmeetcal.com
 www.planmeetcal.com
 
 
 ## wp
+||stats.wp.com^
 stats.wp.com
 
 ## unity
@@ -25,9 +28,8 @@ app.bugsnag.com
 
 
 ## sentry
-
-browser.sentry-cdn.com
-app.getsentry.com
+#browser.sentry-cdn.com
+#app.getsentry.com
 
 
 ## fb
@@ -74,6 +76,7 @@ pagead2.googleadservices.com
 afs.googlesyndication.com
 
 ## g yt
+||ads.youtube.com^
 ads.youtube.com
 
 ## doubleclick
@@ -170,12 +173,19 @@ adtech.yahooinc.com
 
 
 ## yandex
+||extmaps-api.yandex.net^
 extmaps-api.yandex.net
+||appmetrica.yandex.ru^
 appmetrica.yandex.ru
+||adfstat.yandex.ru^
 adfstat.yandex.ru
+||metrika.yandex.ru^
 metrika.yandex.ru
+||advertising.yandex.ru^
 advertising.yandex.ru
+||offerwall.yandex.net^
 offerwall.yandex.net
+||adfox.yandex.ru^
 adfox.yandex.ru
 
 
@@ -226,6 +236,7 @@ tracking.rus.miui.com
 
 ## misc ##
 
+||jads.co^
 jads.co
 ck.jads.co
 s.optnx.com
@@ -234,14 +245,18 @@ oovaufty.com
 benoopto.com
 poorlystepmotherresolute.com
 robberysordid.com
+||hero-wars.com^
 www.hero-wars.com
 hero-wars.com
 faultspiano.com
 purebrowseraddonedge.com
 sparta-tracking.xyz
 track.sparta-tracking.xyz
+||twitchs.cotwitchs.co^
 twitchs.cotwitchs.co
+||twitchs.co^
 twitchs.co
+||cyber-guard.me^
 cyber-guard.me
 *.cyber-guard.me
 hst2x.com
@@ -267,22 +282,30 @@ mogeba.de
 *.mogeba.de
 *.rlcontrol.de
 rlmgws-data.s3*
+||zooloollc.com^
 zooloollc.com
 *.zooloollc.com
+
+||userwerk.com^
+||userwerk.de^
 userwerk.com
 *.userwerk.com
 userwerk.de
 *.userwerk.de
 
+||bloomharmony.xyz^
 anlagetipps.bloomharmony.xyz
 bloomharmony.xyz
 *.bloomharmony.xyz
 
+||eomoduee.net^
 eomoduee.net
 *.eomoduee.net
 
+||audacity.de^
 www.audacity.de
 *.audacity.de
 
+||glotal.shop^
 glotal.shop
 *.glotal.shop
