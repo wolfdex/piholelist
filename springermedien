@@ -1,23 +1,31 @@
 (\.|^)bild\.de$
+||bild.de^
 bild.de
 www.bild.de
 m.bild.de
 
 (\.|^)computerbild\.de$
+||computerbild.de^
 computerbild.de
 www.computerbild.de
 
 (\.|^)welt\.de$
+||welt.de^
 welt.de
 www.welt.de
 *.welt.de
 
 (\.|^)n24\.de$
+||n24.de^
 n24.de
 www.n24.de
 
 (\.|^)politico\.de$
+||politico.de^
 (\.|^)politico\.eu$
+||politico.eu^
+(\.|^)politico\.com$
+||politico.com^
 politico.com
 www.politico.com
 politico.eu
@@ -25,67 +33,87 @@ www.politico.eu
 
 
 (\.|^)fakt\.net$
+||fakt.net^
+(\.|^)fakt\.pl$
+||fakt.pl^
 fakt.pl
 www.fakt.pl
 
 (\.|^)businessinsider\.de$
+||businessinsider.de^
 (\.|^)businessinsider\.com$
+||businessinsider.com^
 businessinsider.de
 www.businessinsider.de
 
+
 (\.|^)transfermarkt\.de$
+||transfermarkt.de^
 transfermarkt.de
 www.transfermarkt.de
 *.Transfermarkt.de
 
 (\.|^)gruenderszene\.de$
+||gruenderszene.de^
 gruenderszene.de
 www.gruenderszene.de
 *.gruenderszene.de
-gründerszene.de
-www.gründerszene.de
-*.gründerszene.de
+
 
 (\.|^)noizz\.de$
+||noizz.de^
 (\.|^)noizz\.pl$
+||noizz.pl^
 noizz.de
 www.noizz.de
 noizz.pl
 www.noizz.pl
 
 (\.|^)rollingstone\.de$
+||rollingstone.de^
 rollingstone.de
 www.rollingstone.de
 *.rollingstone.de
 
 (\.|^)stylebook\.de$
+||stylebook.de^
 stylebook.de
 
 (\.|^)fitbook\.de$
-*.fitbook.de
+||fitbook.de^
+fitbook.de
 (\.|^)travelbook\.de$
-*.travelbook.de
+||travelbook.de^
+travelbook.de^
 
 (\.|^)emarketer\.com$
+||emarketer.com^
 emarketer.com
 
 (\.|^)insiderintelligence\.com$
+||insiderintelligence.com^
 insiderintelligence.com
 
 (\.|^)immowelt\.org$
+||immowelt.org^
 (\.|^)immowelt\.de$
+||immowelt.de^
 immowelt.org
 www.immowelt.org
 immowelt.de
 www.immowelt.de
-immonet.de
+
 (\.|^)immonet\.de$
-(\.|^)immoweb\.be$
+||immonet.de^
 immonet.de
+(\.|^)immoweb\.be$
+||immoweb.be^
 immoweb.be
 
 (\.|^)stepstone\.de$
+||stepstone.de^
 (\.|^)stepstone\.com$
+||stepstone.com^
 stepstone.de
 www.stepstone.de
 *.stepstone.de
@@ -95,28 +123,35 @@ www.stepstone.com
 *.stepstone.com
 
 (\.|^)SeLoger\.fr$
+||SeLoger.fr^
 SeLoger.fr
 www.SeLoger.fr
 
 (\.|^)LaCentrale\.fr$
+||LaCentrale.fr^
 LaCentrale.fr
 www.LaCentrale.fr
 
 
 (\.|^)meinestadt\.de$
+||meinestadt.de^
 meinestadt.de
 www.meinestadt.de
 
 (\.|^)yad2\.co.il$
+||yad2.co.il^
 yad2.co.il
 www.yad2.co.il
 
 (\.|^)idealo\.de$
+||idealo.de^
 idealo.de
 www.idealo.de
 
 (\.|^)awin\.de$
+||awin.de^
 (\.|^)awin\.com$
+||awin.com^
 awin.de
 www.awin.de
 *.awin.de
@@ -126,13 +161,16 @@ www.awin.com
 
 
 (\.|^)kaufda\.de$
+||kaufda.de^
 kaufda.de
 www.kaufda.de
 
 (\.|^)bonial\.de$
+||bonial.com^
 bonial.de
 www.bonial.de
 
 (\.|^)meinprospekt\.de$
+||meinprospekt.com^
 meinprospekt.de
 www.meinprospekt.de
