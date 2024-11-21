@@ -1,42 +1,48 @@
+(\.|^)bild\.de$
 bild.de
 www.bild.de
 m.bild.de
-*.bild.de
 
+(\.|^)computerbild\.de$
 computerbild.de
 www.computerbild.de
-*.computerbild.de
 
+(\.|^)welt\.de$
 welt.de
 www.welt.de
 *.welt.de
+
+(\.|^)n24\.de$
 n24.de
 www.n24.de
-*.n24.de
 
+(\.|^)politico\.de$
+(\.|^)politico\.eu$
 politico.com
 www.politico.com
-*.politico.com
 politico.eu
 www.politico.eu
-*.politico.eu
 
+
+(\.|^)finanzen\.net$
 finanzen.net
 www.finanzen.net
-*.finanzen.net
 
+(\.|^)fakt\.net$
 fakt.pl
 www.fakt.pl
-*.fakt.pl
 
+(\.|^)businessinsider\.de$
+(\.|^)businessinsider\.com$
 businessinsider.de
 www.businessinsider.de
-*.businessinsider.de
 
+(\.|^)transfermarkt\.de$
 transfermarkt.de
 www.transfermarkt.de
 *.Transfermarkt.de
 
+(\.|^)gruenderszene\.de$
 gruenderszene.de
 www.gruenderszene.de
 *.gruenderszene.de
@@ -44,42 +50,46 @@ gründerszene.de
 www.gründerszene.de
 *.gründerszene.de
 
+(\.|^)noizz\.de$
+(\.|^)noizz\.pl$
 noizz.de
 www.noizz.de
-*.noizz.de
 noizz.pl
 www.noizz.pl
-*.noizz.pl
 
+(\.|^)rollingstone\.de$
 rollingstone.de
 www.rollingstone.de
 *.rollingstone.de
 
-
+(\.|^)stylebook\.de$
 stylebook.de
-*.stylebook.de
 
+(\.|^)fitbook\.de$
 *.fitbook.de
+(\.|^)travelbook\.de$
 *.travelbook.de
 
+(\.|^)emarketer\.com$
 emarketer.com
-*.emarketer.com
 
+(\.|^)insiderintelligence\.com$
 insiderintelligence.com
-*.insiderintelligence.com
 
+(\.|^)immowelt\.org$
+(\.|^)immowelt\.de$
 immowelt.org
 www.immowelt.org
-*.immowelt.org
 immowelt.de
 www.immowelt.de
-*.immowelt.de
-*.immowelt.*
 immonet.de
-*.immonet.de
+(\.|^)immonet\.de$
+(\.|^)immoweb\.be$
+immonet.de
 immoweb.be
-*.immoweb.be
 
+(\.|^)stepstone\.de$
+(\.|^)stepstone\.com$
 stepstone.de
 www.stepstone.de
 *.stepstone.de
@@ -88,25 +98,29 @@ stepstone.com
 www.stepstone.com
 *.stepstone.com
 
+(\.|^)SeLoger\.fr$
 SeLoger.fr
 www.SeLoger.fr
-*.SeLoger.fr
+
+(\.|^)LaCentrale\.fr$
 LaCentrale.fr
 www.LaCentrale.fr
-*.LaCentrale.fr
 
+
+(\.|^)meinestadt\.de$
 meinestadt.de
 www.meinestadt.de
-*.meinestadt.de
 
+(\.|^)yad2\.co.il$
 yad2.co.il
 www.yad2.co.il
-*.yad2.co.il
 
+(\.|^)idealo\.de$
 idealo.de
 www.idealo.de
-*.idealo.de
 
+(\.|^)awin\.de$
+(\.|^)awin\.com$
 awin.de
 www.awin.de
 *.awin.de
@@ -114,16 +128,15 @@ awin.com
 www.awin.com
 *.awin.com
 
+
+(\.|^)kaufda\.de$
 kaufda.de
 www.kaufda.de
-*.kaufda.de
 
+(\.|^)bonial\.de$
 bonial.de
 www.bonial.de
-*.bonial.de
 
+(\.|^)meinprospekt\.de$
 meinprospekt.de
 www.meinprospekt.de
-*.meinprospekt.de
-
-
